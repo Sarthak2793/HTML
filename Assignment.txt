@@ -1,6 +1,6 @@
 
-
-     Frontend Assignment :
+Frontend Assignment :
+MODULE: 1 (HTML)
 
 => Are the HTML tags and elements the same thing?
 - No, they aren't both the same thing.
