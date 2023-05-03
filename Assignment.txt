@@ -1,0 +1,32 @@
+
+
+     Frontend Assignment :
+
+=> Are the HTML tags and elements the same thing?
+
+- No, they aren't both the same thing.
+
+- Tags : Tags are the starting and ending parts of an HTML element. They begin with < symbol and end with > symbol.
+  Whatever written inside < and > are called tags. (ex : <b> </b>)
+
+- Elements : Elements enclose the contents in between the tags. They consist of some kind of structure or expression.
+  It generally consists of a start tag, content and an end tag. (ex : <b>This is the content.</b>)
+
+
+=> What are tags and attributes in HTML?
+
+- Tags : Tags are the starting and ending parts of an HTML element. They begin with < symbol and end with > symbol.
+  Whatever written inside < and > are called tags. (ex : <b> </b>)
+
+- Attributes provide additional information about elements. Attributes are always specified in the start tag.
+  Attributes usually come in name/value pairs. (ex : name = "value")
+
+
+=> What are void elements in HTML?
+
+- The void elements in HTML don't require a closing tag to be valid. (ex : <br>, <hr>, <img>, <input>)
+
+
+
+
+
